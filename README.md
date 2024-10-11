@@ -2,6 +2,8 @@
 
 This repository contains code for fine-tuning the Llama 3.2 3B Instruct model on a Python code dataset using the Unsloth library. The project aims to enhance the model's ability to generate and understand Python code.
 
+**IMPORTANT-NOTE**: Model name at github has been updated to "nikhiljatiwal/Llama-3.2-3B-Instruct-code"
+
 ## Features
 
 - Utilizes the Unsloth library for efficient fine-tuning of large language models
