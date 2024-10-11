@@ -19,7 +19,6 @@ This repository contains code for fine-tuning the Llama 3.2 3B Instruct model on
    ```
    pip install "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git"
    pip install "git+https://github.com/huggingface/transformers.git"
-   pip install -U trl
    pip install --no-deps trl peft accelerate bitsandbytes
    pip install torch torchvision torchaudio triton
    pip install xformers
